@@ -1,2 +1,2 @@
 # library-management
-not description yet .
+This file was created to complete Git practice 
